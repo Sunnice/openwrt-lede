@@ -26,13 +26,10 @@ git clone https://github.com/Lienol/openwrt-package.git package/lienol
 git clone https://github.com/Lienol/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/mit-ywtm/luci-theme-rosy.git package/luci-theme-rosy
 git clone https://github.com/Mrbai98/luci-theme-atmaterial.git package/luci-theme-atmaterial
-git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
-git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
 git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly.git package/luci-theme-Butterfly
 git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luci-theme-Butterfly-dark
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
 git clone https://github.com/siropboy/luci-theme-btmod.git package/luci-theme-btmod
-git clone https://github.com/solidus1983/luci-theme-opentomato.git package/luci-theme-opentomato2
 git clone https://github.com/kenzok8/luci-theme-ifit.git package/luci-theme-ifit
 git clone https://github.com/Aslin-Ameng/luci-theme-Night.git package/luci-theme-Night
