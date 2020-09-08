@@ -33,3 +33,4 @@ git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-pu
 git clone https://github.com/siropboy/luci-theme-btmod.git package/luci-theme-btmod
 git clone https://github.com/kenzok8/luci-theme-ifit.git package/luci-theme-ifit
 git clone https://github.com/Aslin-Ameng/luci-theme-Night.git package/luci-theme-Night
+git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
