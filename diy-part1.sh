@@ -23,7 +23,4 @@ sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.co
 
 svn co https://github.com/Lienol/openwrt-packages/trunk/net/smartdns package/net/smartdns
 
-svn co https://github.com/siropboy/mypackages/trunk/luci-theme-opentomcat package/lean/luci-theme-opentomcat
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomato package/lean/luci-theme-opentomato
-
 rm -rf package/lean/luci-app-kodexplorer
