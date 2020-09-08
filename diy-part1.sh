@@ -17,10 +17,11 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
 
+rm -rf feeds/packages/net/smartdns
+svn co https://github.com/Lienol/openwrt-packages/trunk/net/smartdns feeds/packages/net/smartdns
+
+rm -rf package/lean/luci-app-kodexplorer
+
 ./scripts/feeds clean
 ./scripts/feeds update -a
 ./scripts/feeds install -a
-
-svn co https://github.com/Lienol/openwrt-packages/trunk/net/smartdns package/net/smartdns
-
-rm -rf package/lean/luci-app-kodexplorer
